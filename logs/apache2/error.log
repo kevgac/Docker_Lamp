@@ -1,0 +1,88 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Sep 13 14:05:46.654532 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.19 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Sep 13 14:05:46.654634 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Sep 13 14:37:52.891578 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Sep 13 14:39:15.115392 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.19 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Sep 13 14:39:15.115504 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Sep 13 14:40:00.232736 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Sep 13 14:46:26.596968 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Sep 13 14:46:26.597083 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Sep 13 15:21:38.545043 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Sep 13 15:24:22.663756 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Sep 13 15:24:22.663868 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Sep 13 15:38:25.505583 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Sep 14 06:48:28.828162 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Sep 14 06:48:28.828235 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Sep 14 07:25:34.150090 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Sep 14 12:41:40.047451 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Sep 14 12:41:40.047516 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Sep 14 13:30:16.573817 2023] [autoindex:error] [pid 21] [client 172.19.0.1:35260] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Thu Sep 14 13:42:12.023952 2023] [autoindex:error] [pid 19] [client 172.19.0.1:51624] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Thu Sep 14 13:42:12.367469 2023] [autoindex:error] [pid 22] [client 172.19.0.1:51654] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Thu Sep 14 14:14:46.083000 2023] [autoindex:error] [pid 18] [client 172.19.0.1:40320] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Thu Sep 14 14:15:48.313035 2023] [autoindex:error] [pid 17] [client 172.19.0.1:49074] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Thu Sep 14 14:20:23.787184 2023] [autoindex:error] [pid 19] [client 172.19.0.1:54370] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Thu Sep 14 15:04:11.135687 2023] [autoindex:error] [pid 18] [client 172.19.0.1:51490] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Thu Sep 14 15:05:24.236452 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Sep 14 15:05:26.183249 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Sep 14 15:05:26.183327 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Sep 14 15:05:29.025779 2023] [php:notice] [pid 17] [client 172.19.0.1:52468] [error] Uncaught PHP Exception Symfony\\Component\\HttpKernel\\Exception\\NotFoundHttpException: "No route found for "GET http://localhost/"" at /var/www/html/vendor/symfony/http-kernel/EventListener/RouterListener.php line 127
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Fri Sep 15 08:27:12.164950 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Fri Sep 15 08:27:12.165014 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Sep 15 08:27:20.277621 2023] [php:notice] [pid 17] [client 172.18.0.1:47276] [error] Uncaught PHP Exception Symfony\\Component\\HttpKernel\\Exception\\NotFoundHttpException: "No route found for "GET http://localhost/"" at /var/www/html/vendor/symfony/http-kernel/EventListener/RouterListener.php line 127
+[Fri Sep 15 08:44:30.827393 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 02 07:00:09.493509 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Mon Oct 02 07:00:09.493606 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Oct 02 07:00:35.808978 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 02 07:08:05.581113 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Mon Oct 02 07:08:05.581181 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Oct 02 07:18:19.371497 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 02 07:20:48.777706 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Mon Oct 02 07:20:48.777794 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Oct 02 15:02:57.961697 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 23 07:13:36.602711 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Mon Oct 23 07:13:36.602782 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Oct 23 15:41:59.227632 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 24 12:05:03.833763 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Oct 24 12:05:03.833941 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 24 14:33:05.947910 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 24 19:37:17.549377 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Oct 24 19:37:17.549453 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 24 20:54:22.279121 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 25 11:05:41.977853 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Oct 25 11:05:41.977978 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Oct 25 13:32:06.703336 2023] [php:notice] [pid 20] [client 172.21.0.1:50044] 2023-10-25T13:32:06+00:00 [critical] Uncaught Error: syntax error, unexpected token ":"
+[Wed Oct 25 18:18:02.595687 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 26 07:20:04.274513 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Oct 26 07:20:04.274579 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Oct 26 13:25:06.660968 2023] [php:notice] [pid 17] [client 172.18.0.1:45628] 2023-10-26T13:25:06+00:00 [critical] Uncaught Exception: Because you have multiple authenticators in firewall "main", you need to set the "entry_point" key to one of your authenticators ("App\\Security\\LoginFormAuthenticator", "form_login") or a service ID implementing "Symfony\\Component\\Security\\Http\\EntryPoint\\AuthenticationEntryPointInterface". The "entry_point" determines what should happen (e.g. redirect to "/login") when an anonymous user tries to access a protected page.
+[Thu Oct 26 13:25:28.509633 2023] [php:notice] [pid 18] [client 172.18.0.1:51128] 2023-10-26T13:25:28+00:00 [critical] Uncaught Exception: Because you have multiple authenticators in firewall "main", you need to set the "entry_point" key to one of your authenticators ("App\\Security\\LoginFormAuthenticator", "form_login") or a service ID implementing "Symfony\\Component\\Security\\Http\\EntryPoint\\AuthenticationEntryPointInterface". The "entry_point" determines what should happen (e.g. redirect to "/login") when an anonymous user tries to access a protected page.
+[Thu Oct 26 13:30:18.544482 2023] [php:notice] [pid 19] [client 172.18.0.1:43320] 2023-10-26T13:30:18+00:00 [critical] Uncaught Exception: Because you have multiple authenticators in firewall "main", you need to set the "entry_point" key to one of your authenticators ("App\\Security\\LoginFormAuthenticator", "form_login") or a service ID implementing "Symfony\\Component\\Security\\Http\\EntryPoint\\AuthenticationEntryPointInterface". The "entry_point" determines what should happen (e.g. redirect to "/login") when an anonymous user tries to access a protected page.
+[Thu Oct 26 13:30:26.154587 2023] [php:notice] [pid 20] [client 172.18.0.1:43324] 2023-10-26T13:30:26+00:00 [critical] Uncaught Exception: Because you have multiple authenticators in firewall "main", you need to set the "entry_point" key to one of your authenticators ("App\\Security\\LoginFormAuthenticator", "form_login") or a service ID implementing "Symfony\\Component\\Security\\Http\\EntryPoint\\AuthenticationEntryPointInterface". The "entry_point" determines what should happen (e.g. redirect to "/login") when an anonymous user tries to access a protected page.
+[Thu Oct 26 13:35:01.957890 2023] [php:notice] [pid 21] [client 172.18.0.1:47600] 2023-10-26T13:35:01+00:00 [critical] Uncaught Exception: Because you have multiple authenticators in firewall "main", you need to set the "entry_point" key to one of your authenticators ("App\\Security\\LoginFormAuthenticator", "form_login") or a service ID implementing "Symfony\\Component\\Security\\Http\\EntryPoint\\AuthenticationEntryPointInterface". The "entry_point" determines what should happen (e.g. redirect to "/login") when an anonymous user tries to access a protected page.
+[Thu Oct 26 13:36:24.785819 2023] [php:notice] [pid 20] [client 172.18.0.1:33722] 2023-10-26T13:36:24+00:00 [critical] Uncaught Exception: Because you have multiple authenticators in firewall "main", you need to set the "entry_point" key to one of your authenticators ("App\\Security\\LoginFormAuthenticator", "form_login") or a service ID implementing "Symfony\\Component\\Security\\Http\\EntryPoint\\AuthenticationEntryPointInterface". The "entry_point" determines what should happen (e.g. redirect to "/login") when an anonymous user tries to access a protected page.
+[Thu Oct 26 13:40:57.446283 2023] [php:notice] [pid 29] [client 172.18.0.1:53926] 2023-10-26T13:40:57+00:00 [critical] Uncaught Exception: Because you have multiple authenticators in firewall "main", you need to set the "entry_point" key to one of your authenticators ("App\\Security\\LoginFormAuthenticator", "form_login") or a service ID implementing "Symfony\\Component\\Security\\Http\\EntryPoint\\AuthenticationEntryPointInterface". The "entry_point" determines what should happen (e.g. redirect to "/login") when an anonymous user tries to access a protected page.
+[Thu Oct 26 15:03:53.096844 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 01 12:43:25.494761 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Nov 01 12:43:25.494833 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 01 13:42:46.194041 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Nov 07 09:37:43.748835 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.20 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Nov 07 09:37:43.748943 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Nov 07 09:39:22.366909 2023] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
